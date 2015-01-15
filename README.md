@@ -26,8 +26,8 @@
 1. Sign in to your openshift account, head over to applications and create a new one
 2. Select the `node.js 0.10` cartridge
 3. Name your application
-4. In the source code field put: 'https://github.com/DavidReinberger/openshift-custom-nodejs.git'
-5. In the second field put the branch you have chosen to suit your needs: 'read-marker-file' or 'read-package-json'
+4. In the source code field put: `https://github.com/DavidReinberger/openshift-custom-nodejs.git`
+5. In the second field put the branch you have chosen to suit your needs: `read-marker-file` or `read-package-json`
 6. Watch magic happen!
 7. Go to http://yourappname-yourdomain.rhcloud.com
 8. At the top of the page you should see **v0.10.33**
