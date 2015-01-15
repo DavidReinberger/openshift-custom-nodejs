@@ -1,0 +1,16 @@
+{
+  "name": "openshift-custom-node",
+  "description": "Custom node version running on openshift",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "0.10.33",
+    "npm": "1.4.8"
+  },
+  "dependencies": {
+  },
+  "private": true
+}
