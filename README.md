@@ -71,7 +71,7 @@ If you take a look at `server.js`, some might point out that is just a renamed m
 
 ## Instructions
 1. Demetorize your app
-  - sudo demeteorizer -o ../_build/app
+  - sudo `demeteorizer -o ../_build/app`
     - use sudo to avoid errors!
 2. Copy the demeteorized app to your cloned openshift repo
 3. Open package.json and change
