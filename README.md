@@ -6,9 +6,9 @@
 
 > Because there are two ways of managing the node version!
 
-1. read-marker-file branch
+1. **read-marker-file branch**
   - will read the marker file which is the "normal" way for openshift
-2. read-package-json
+2. **read-package-json**
   - based on ryanj's work, will parse the package.json in your app root and read the 'enginge' key and install the corresponding node version
 
 > It does not matter which branch you select, the point is that developers are used to manage dependencies via package.json file
